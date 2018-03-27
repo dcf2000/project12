@@ -1,0 +1,2 @@
+创建文件夹，点击new file>在edittext中输入slash填写文件夹名，即可。
+或者upload  file，直接将文件夹拖进去。
